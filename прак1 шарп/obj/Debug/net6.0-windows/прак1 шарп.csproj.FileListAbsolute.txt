@@ -1,0 +1,21 @@
+C:\Users\klika\source\repos\прак1 шарп\прак1 шарп\bin\Debug\net6.0-windows\прак1 шарп.exe
+C:\Users\klika\source\repos\прак1 шарп\прак1 шарп\bin\Debug\net6.0-windows\прак1 шарп.deps.json
+C:\Users\klika\source\repos\прак1 шарп\прак1 шарп\bin\Debug\net6.0-windows\прак1 шарп.runtimeconfig.json
+C:\Users\klika\source\repos\прак1 шарп\прак1 шарп\bin\Debug\net6.0-windows\прак1 шарп.dll
+C:\Users\klika\source\repos\прак1 шарп\прак1 шарп\bin\Debug\net6.0-windows\прак1 шарп.pdb
+C:\Users\klika\source\repos\прак1 шарп\прак1 шарп\obj\Debug\net6.0-windows\прак1 шарп.csproj.AssemblyReference.cache
+C:\Users\klika\source\repos\прак1 шарп\прак1 шарп\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\klika\source\repos\прак1 шарп\прак1 шарп\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\klika\source\repos\прак1 шарп\прак1 шарп\obj\Debug\net6.0-windows\прак1 шарп_MarkupCompile.cache
+C:\Users\klika\source\repos\прак1 шарп\прак1 шарп\obj\Debug\net6.0-windows\прак1 шарп_MarkupCompile.lref
+C:\Users\klika\source\repos\прак1 шарп\прак1 шарп\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\klika\source\repos\прак1 шарп\прак1 шарп\obj\Debug\net6.0-windows\прак1 шарп.g.resources
+C:\Users\klika\source\repos\прак1 шарп\прак1 шарп\obj\Debug\net6.0-windows\прак1 шарп.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klika\source\repos\прак1 шарп\прак1 шарп\obj\Debug\net6.0-windows\прак1 шарп.AssemblyInfoInputs.cache
+C:\Users\klika\source\repos\прак1 шарп\прак1 шарп\obj\Debug\net6.0-windows\прак1 шарп.AssemblyInfo.cs
+C:\Users\klika\source\repos\прак1 шарп\прак1 шарп\obj\Debug\net6.0-windows\прак1 шарп.csproj.CoreCompileInputs.cache
+C:\Users\klika\source\repos\прак1 шарп\прак1 шарп\obj\Debug\net6.0-windows\прак1 шарп.dll
+C:\Users\klika\source\repos\прак1 шарп\прак1 шарп\obj\Debug\net6.0-windows\refint\прак1 шарп.dll
+C:\Users\klika\source\repos\прак1 шарп\прак1 шарп\obj\Debug\net6.0-windows\прак1 шарп.pdb
+C:\Users\klika\source\repos\прак1 шарп\прак1 шарп\obj\Debug\net6.0-windows\прак1 шарп.genruntimeconfig.cache
+C:\Users\klika\source\repos\прак1 шарп\прак1 шарп\obj\Debug\net6.0-windows\ref\прак1 шарп.dll
